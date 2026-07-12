@@ -18,7 +18,7 @@
             <img src="project_images/camera-1.png" alt="">
          </div>
          <div class="content">
-            <span>Todo a menos de s/99</span>
+            <span>Todo a descuento de s/99</span>
             <h3>!LO QUE ESTABAS BUSCANDO¡</h3>
             <a href="#" class="btn">shop now</a>
          </div>
